@@ -1,4 +1,4 @@
-## ECM34 EYC events
+## [ECM34 EYC events](https://www.ecm34.org/)
 
 Currently we are organising 3 (three) events:
 

@@ -7,3 +7,6 @@ Currently we are organising 3 (three) events:
 * Science Slam @ 34th European Crystallographic Meeting - to be announced
 
 * European Young Crystallographers Mixer (evening event) - to be announced
+
+
+<a href="https://ecanews.org/groups/gig-01-young-crystallographers/"><img src="img/eyc_logo.png" alt="logo EYC" height="320"></a>
